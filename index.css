@@ -1,0 +1,27 @@
+nav {
+    background-image:url(https://static.wixstatic.com/media/3b032c_3d2d03e208464a6b8aa6ad14f08a0aac.jpg/v1/fill/w_600,h_418,al_c,lg_1,q_80/3b032c_3d2d03e208464a6b8aa6ad14f08a0aac.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    width: 1440px;
+}
+
+.second,
+.first ul li {
+    display: flex;
+    flex-direction: column  ;
+    /* grid-template-columns: 1fr 8fr; */
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.home li {
+    display: inline;
+}
+
+* {
+    /* border: 1px solid beige; */
+}
